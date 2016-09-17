@@ -1,0 +1,13 @@
+## Interface: 30000
+## Title: Random Title
+## Notes: Sets a random title to display on login and zone in
+## Author: Frandall
+## Version 0.1
+## SavedVariables: RandomTitleDB
+## OptionalDeps Ace3
+## X-Embeds: Ace3
+## X-Category: Miscellaneous
+
+embeds.xml
+
+Core.lua
